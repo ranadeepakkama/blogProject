@@ -1,0 +1,7 @@
+.container{
+    border: solid 1px black;
+}
+
+li{
+    list-style-type: none;
+}
